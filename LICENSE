@@ -1,3 +1,11 @@
+Package: FractalGenerator
+Title: Randomized Mandelbrot and Julia Set Visualizer
+Version: 1.0.0
+Description: Creates stunning randomized fractal visualizations...
+License: MIT
+Depends: R (>= 3.5.0)
+Imports: ggplot2, viridis, dplyr
+
 MIT License
 
 Copyright (c) 2025 Abdellah CHAAIBI
