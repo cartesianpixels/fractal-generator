@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/cartesianpixels/fractal-generator)](https://github.com/abdellahchaaibi/fractal-generator/releases/latest)
 [![GitHub downloads](https://img.shields.io/github/downloads/cartesianpixels/fractal-generator/total)](https://github.com/cartesianpixels/fractal-generator/releases)
 
-A randomized Mandelbrot and Julia set visualizer in R that creates stunning mathematical art.
+A randomized Mandelbrot and Julia set visualizer in R that creates mathematical art.
 
 ## Features
 - Generates random fractal patterns every run
